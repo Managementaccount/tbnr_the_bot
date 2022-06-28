@@ -5,7 +5,7 @@ import requests
 import discord
 
 # this is my Hugging Face profile link
-API_URL = 'https://api-inference.huggingface.co/models/r3dhummingbird/'
+API_URL = 'https://github.com/Managementaccount/tbnr_the_bot'
 
 class MyClient(discord.Client):
     def __init__(self, model_name):
